@@ -5,17 +5,11 @@
 1. Clone repo into ~/.config
 
 ```bash
-git clone https://github.com/yomzyo/nvim-dotfiles.git ~/.config
+git clone https://github.com/yomzyo/nvim-dotfiles.git ~/.config/nvim
 ```
 
-2. Rename `nvim-dotfiles` to `nvim`
+2. Launch nvim
 
-```bash
-mv ~/.config/nvim-dotfiles ~/.config/nvim
-```
+3. Compile packer `:PackerCompile`
 
-3. Launch nvim
-
-4. Compile packer `:PackerCompile`
-
-5. Packer sync `:PackerSync`
+4. Packer sync `:PackerSync`

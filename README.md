@@ -5,7 +5,7 @@
 1. Clone repo into ~/.config
 
 ```bash
-git clone https://github.com/yomzyo/nvim-dotfiles.git ~/.config/nvim
+git clone git@github.com:yomzyo/nvim-dotfiles.git ~/.config/nvim
 ```
 
 2. Launch nvim
